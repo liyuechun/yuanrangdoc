@@ -1,24 +1,17 @@
-.. 元壤数字藏品SaaS使用说明文档 documentation master file, created by
-   sphinx-quickstart on Wed Nov 23 21:40:19 2022.
+.. 元壤：Web3.0时代NFT/DAO与用户服务的数字化工具 documentation master file, created by
+   sphinx-quickstart on Thu Nov 24 09:41:15 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-元壤 - 一分钟搭建您您专属的NFT+DAO数字化运营平台!
-========================================================
+元壤：Web3.0时代NFT/DAO与用户服务的数字化工具!
+=========================================================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: 使用说明:
+   :caption: 元壤使用文档:
 
-   windows-shortcuts.md
-   dierdanyuan.md
+   001yuanrang-introduce.md
 
-.. toctree::
-  :maxdepth: 2
-  :caption: 使用说明:
-
-  windows-shortcuts.md
-  dierdanyuan.md
 
 
 Indices and tables
