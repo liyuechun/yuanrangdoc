@@ -8,7 +8,7 @@
 
 腾讯云网址：[https://cloud.tencent.com/](https://cloud.tencent.com/)
 
- ![img](https://docimg6.docs.qq.com/image/AgAABdffSvfNS8fG6hVBu4c7NaYOfONt.png?w=1896&h=1110)         
+ ![img](https://file.liyuechun.com/AgAABdffSvfNS8fG6hVBu4c7NaYOfONt.png?w=1896&h=1110)         
 
 
 
@@ -34,13 +34,13 @@
 
 备案通过后，需要申请SSL证书。同样也是在腾讯云上。
 
-![img](https://docimg6.docs.qq.com/image/AgAABdffSvdW2gYT2SBIjJQQaOQw7u7G.png?w=1904&h=1184)         
+![img](https://file.liyuechun.com/AgAABdffSvdW2gYT2SBIjJQQaOQw7u7G.png?w=1904&h=1184)         
 
 
 
 申请免费 SSL 证书。
 
-![img](https://docimg6.docs.qq.com/image/AgAABdffSvcwyhPMgpJLvoY9vdIBVtMH.png?w=2912&h=1406)         
+![img](https://file.liyuechun.com/AgAABdffSvcwyhPMgpJLvoY9vdIBVtMH.png?w=2912&h=1406)         
 
 
 
@@ -76,19 +76,19 @@
 
 点开域名列表：
 
-​                  ![img](https://docimg6.docs.qq.com/image/AgAABdffSvcxL_QFQQ9JWrAWpG309gaE.png?w=2856&h=986)         
+​                  ![img](https://file.liyuechun.com/AgAABdffSvcxL_QFQQ9JWrAWpG309gaE.png?w=2856&h=986)         
 
 
 
 在购买的域名后面，点击解析，进到解析设置页，点击添加记录：
 
-​                  ![img](https://docimg6.docs.qq.com/image/AgAABdffSvfAiJ2QJ7tNJJi8zltut27V.png?w=2872&h=994)         
+​                  ![img](https://file.liyuechun.com/AgAABdffSvfAiJ2QJ7tNJJi8zltut27V.png?w=2872&h=994)         
 
 
 
 然后按照要求填入信息：
 
-​                  ![img](https://docimg6.docs.qq.com/image/AgAABdffSve9mPnB2X1ERrNerB4q1Mj-.jpeg?w=1540&h=1480)         
+​                  ![img](https://file.liyuechun.com/AgAABdffSve9mPnB2X1ERrNerB4q1Mj-.jpeg?w=1540&h=1480)         
 
 
 
