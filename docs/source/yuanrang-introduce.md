@@ -1,4 +1,5 @@
 # 关于元壤
+元壤：Web3.0时代NFT、DAO与用户服务的数字化工具。
 
 ### 官网
 - [https://yr.xyz](https://yr.xyz)
