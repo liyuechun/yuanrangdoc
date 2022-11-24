@@ -25,4 +25,4 @@
 - 微信：yrsaas
 
 ### 元壤公众号
-![元壤官方公众号](https://file.liyuechun.com/qrcode_for_gh_22413fa6c21e_860.jpg)
+![](https://file.liyuechun.com/qrcode_for_gh_22413fa6c21e_860.jpg)
