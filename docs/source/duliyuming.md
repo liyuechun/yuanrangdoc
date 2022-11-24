@@ -8,13 +8,13 @@
 
 腾讯云网址：[https://cloud.tencent.com/](https://cloud.tencent.com/)
 
- ![img](https://file.liyuechun.com/AgAABdffSvfNS8fG6hVBu4c7NaYOfONt.png?w=1896&h=1110)         
+ ![](https://file.liyuechun.com/AgAABdffSvfNS8fG6hVBu4c7NaYOfONt.png?w=1896&h=1110)         
 
 
 
 按照要求上传证件，一步一步进行即可。
 
- ![img](https://docimg7.docs.qq.com/image/AgAABdffSvfCe2kZke1LL7_cySeNBqsw.png?w=3068&h=1906)         
+ ![](https://file.liyuechun.com/AgAABdffSvfCe2kZke1LL7_cySeNBqsw.png?w=3068&h=1906)         
 
 
 
@@ -22,11 +22,11 @@
 
 推荐个相对便宜点的轻量级服务器：https://cloud.tencent.com/product/lighthouse
 
-![img](https://docimg1.docs.qq.com/image/AgAABdffSvdKSONf0KRAxbdl2XDtnp1a.png?w=2360&h=1518)
+![](https://file.liyuechun.com/AgAABdffSvdKSONf0KRAxbdl2XDtnp1a.png?w=2360&h=1518)
 
 如果这个服务器只是为了备案，您不做其他用途，那镜像这里看着选。
 
-![img](https://docimg4.docs.qq.com/image/AgAABdffSved4sEdUAJLIL7Mf2KQJNKF.png?w=2338&h=1494)
+![](https://file.liyuechun.com/AgAABdffSved4sEdUAJLIL7Mf2KQJNKF.png?w=2338&h=1494)
 
 当域名备案通过，您记得来腾讯云这里退一下服务。可以退回一部分钱。
 
@@ -34,23 +34,23 @@
 
 备案通过后，需要申请SSL证书。同样也是在腾讯云上。
 
-![img](https://file.liyuechun.com/AgAABdffSvdW2gYT2SBIjJQQaOQw7u7G.png?w=1904&h=1184)         
+![](https://file.liyuechun.com/AgAABdffSvdW2gYT2SBIjJQQaOQw7u7G.png?w=1904&h=1184)         
 
 
 
 申请免费 SSL 证书。
 
-![img](https://file.liyuechun.com/AgAABdffSvcwyhPMgpJLvoY9vdIBVtMH.png?w=2912&h=1406)         
+![](https://file.liyuechun.com/AgAABdffSvcwyhPMgpJLvoY9vdIBVtMH.png?w=2912&h=1406)         
 
 
 
 然后填写信息提交即可。
 
-![img](https://docimg5.docs.qq.com/image/AgAABdffSvd5n0a2CilKeKvZ7a9P393-.png?w=2504&h=1350)    
+![](https://file.liyuechun.com/AgAABdffSvd5n0a2CilKeKvZ7a9P393-.png?w=2504&h=1350)    
 
 
 
-##             三、     **解析域名**
+##   三、     **解析域名**
 
 提交申请后，会让你添加一条域名解析记录。你要回到购买域名的平台去进行添加。（阿里云买域名就去阿里云添加，腾讯云买就腾讯云添加，百度云买就百度云添加）。
 
@@ -60,7 +60,7 @@
 
 按照腾讯云的要求，填入主机记录，记录类型，记录值即可。
 
-![img](https://docimg9.docs.qq.com/image/AgAABdffSvd5RNJ0FY1AHZTIIAgudC98.png?w=2946&h=1232)
+![](https://file.liyuechun.com/AgAABdffSvd5RNJ0FY1AHZTIIAgudC98.png?w=2946&h=1232)
 
 
 
@@ -70,25 +70,25 @@
 
 这里以阿里云为例。首先在控制台找到域名这一项：
 
-​                  ![img](https://docimg5.docs.qq.com/image/AgAABdffSvc2wS_s_-VPcp0Q9ary-15J.png?w=2414&h=1064)         
+​                  ![](https://file.liyuechun.com/AgAABdffSvc2wS_s_-VPcp0Q9ary-15J.png?w=2414&h=1064)         
 
 
 
 点开域名列表：
 
-​                  ![img](https://file.liyuechun.com/AgAABdffSvcxL_QFQQ9JWrAWpG309gaE.png?w=2856&h=986)         
+​                  ![](https://file.liyuechun.com/AgAABdffSvcxL_QFQQ9JWrAWpG309gaE.png?w=2856&h=986)         
 
 
 
 在购买的域名后面，点击解析，进到解析设置页，点击添加记录：
 
-​                  ![img](https://file.liyuechun.com/AgAABdffSvfAiJ2QJ7tNJJi8zltut27V.png?w=2872&h=994)         
+​                  ![](https://file.liyuechun.com/AgAABdffSvfAiJ2QJ7tNJJi8zltut27V.png?w=2872&h=994)         
 
 
 
 然后按照要求填入信息：
 
-​                  ![img](https://file.liyuechun.com/AgAABdffSve9mPnB2X1ERrNerB4q1Mj-.jpeg?w=1540&h=1480)         
+​                  ![](https://file.liyuechun.com/AgAABdffSve9mPnB2X1ERrNerB4q1Mj-.jpeg?w=1540&h=1480)         
 
 
 
@@ -98,7 +98,7 @@
 
 然后等待 SSL 审核。
 
-![img](https://docimg4.docs.qq.com/image/AgAABdffSvf-nQN4SHpINIBO8oa0Lvek.png?w=3058&h=1270)
+![](https://file.liyuechun.com/AgAABdffSvf-nQN4SHpINIBO8oa0Lvek.png?w=3058&h=1270)
 
 
 
@@ -106,4 +106,4 @@
 
 下载证书的时候选择Nginx下载即可。
 
-![img](https://docimg10.docs.qq.com/image/AgAABdffSvdIMuseXCNHD5UND0sHeaYT.png?w=1634&h=1518)
+![](https://file.liyuechun.com/AgAABdffSvdIMuseXCNHD5UND0sHeaYT.png?w=1634&h=1518)
