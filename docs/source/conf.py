@@ -5,7 +5,7 @@
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
-import sphinx_pdj_theme
+import sphinx_rtd_theme
 
 project = '元壤 - Web3.0 时代 NFT+DAO 与用户服务的数字化工具'
 copyright = '2022, 元壤 - 一分钟搭建您专属的NFT/DAO数字化粉丝深度运营平台'
@@ -26,5 +26,5 @@ language = '中文'
 
 html_static_path = ['_static']
 
-html_theme = 'sphinx_pdj_theme'
-html_theme_path = [sphinx_pdj_theme.get_html_theme_path()]
+html_theme = 'sphinx_rtd_theme'
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
